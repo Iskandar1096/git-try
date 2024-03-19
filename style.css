@@ -1,0 +1,11 @@
+body{
+    background-color: #e8e8e8;
+}
+h1{
+    color: rgb(0, 110, 0);
+    text-align: center;
+}
+p{
+    font-style:italic;
+    font-weight: 700;
+}
