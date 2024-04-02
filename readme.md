@@ -6,16 +6,16 @@
 ###### Это заголовок6
 
  Это заголовок1
- ===== 
+===== 
  
  Это заголовок2
- -----
+-----
 
-** Bold **
-__ bold __
+**Bold**
+__bold__
 
-* Italic *
-_ Italic _
+*Italic*
+_Italic_
 
-*** Italic ***
-___ Italic ___
+***Italic***
+___Italic___
