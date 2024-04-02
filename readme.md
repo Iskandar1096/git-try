@@ -40,3 +40,5 @@ ___Italic___
 
 - [X]отмечено
 - []выбрать
+
+:check_mark_button: Checked
