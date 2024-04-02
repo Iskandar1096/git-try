@@ -10,3 +10,12 @@
  
  Это заголовок2
  -----
+
+** Bold **
+__ bold __
+
+* Italic *
+_ Italic _
+
+*** Italic ***
+___ Italic ___
