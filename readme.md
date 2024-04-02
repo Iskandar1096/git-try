@@ -42,3 +42,5 @@ ___Italic___
 - []выбрать
 
 :check_mark_button: Checked
+
+✅ Checked
