@@ -45,5 +45,4 @@ ___Italic___
 
 ✅ Checked -->
 
-##### Deeshu-Jain / README.md                            # 🖊
 # Hi there 👋, I'm Deeshu Jain
