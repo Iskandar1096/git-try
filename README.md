@@ -45,11 +45,11 @@ ___Italic___
 
 ✅ Checked -->
 
-Deeshu-Jain / README.md                                                        🖊
+Deeshu-Jain / README.md                                                                                               🖊
 
-#                              Hi there 👋, I'm Deeshu Jain
+#                          Hi there 👋, I'm Deeshu Jain
 
-###      I am a Machine Learning Enthusiast and Al Researcher. I'm interested in Machine                  Learning, Deep Learning, NLP, Computer Vision & Reinforcement Learning
+###           I am a Machine Learning Enthusiast and Al Researcher. I'm interested in Machine                  Learning, Deep Learning, NLP, Computer Vision & Reinforcement Learning
 
 - 🔭 I'm currently working on ML,DL and Al projects    
 -  🧑‍🤝‍🧑 I'm looking to collaborate on building communitites, and research projects in ML.    
